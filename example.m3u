@@ -1,247 +1,247 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_ruangtrampil_big.png",Ruang Terampil
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_ruangtrampil_big.png",Ruang Terampil
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_ruangtrampil_hd_big.png",Ruang Terampil HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_ruangtrampil_hd_big.png",Ruang Terampil HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_idku2_big.png",IDKU
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_idku2_big.png",IDKU
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useeprime_big1.png",Usee Prime
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useeprime_big1.png",Usee Prime
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useeprime_hd_big1.png",USee Prime HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useeprime_hd_big1.png",USee Prime HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useephoto_big.png",Usee Photo
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useephoto_big.png",Usee Photo
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useephoto_hd_big.png",UseePhoto HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useephoto_hd_big.png",UseePhoto HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvri_big1.png",TVRI Nasional
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvri_big1.png",TVRI Nasional
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_metrotv_big1.png",Metro TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_metrotv_big1.png",Metro TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_metrotv_big1.png",Metro TV HD (2)
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_metrotv_big1.png",Metro TV HD (2)
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_cnnindonesia_big1",CNN Indonesia
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_cnnindonesia_big1",CNN Indonesia
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_cnnindonesia_hd_big1",CNN Indonesia HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_cnnindonesia_hd_big1",CNN Indonesia HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvone_big1.png",TV One
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvone_big1.png",TV One
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_transtv_big1.png",Trans TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_transtv_big1.png",Trans TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_transtv_hd_big1.png",Trans TV HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_transtv_hd_big1.png",Trans TV HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_trans7_big1.png",Trans 7
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_trans7_big1.png",Trans 7
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_trans7_hd_big1.png",Trans 7 HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_trans7_hd_big1.png",Trans 7 HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_sctv_big1.png",SCTV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_sctv_big1.png",SCTV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_sctv_hd_big1.png",SCTV HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_sctv_hd_big1.png",SCTV HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_antv_big1.png",ANTV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_antv_big1.png",ANTV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_indosiar_big1.png",Indosiar
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_indosiar_big1.png",Indosiar
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/grey_logo_mshop_big.png",MNC Shop
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/grey_logo_mshop_big.png",MNC Shop
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_net_big1.png",Net TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_net_big1.png",Net TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_net_hd_big1.png",NET TV HD
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_net_hd_big1.png",NET TV HD
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_kompastv_big.png",Kompas TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_kompastv_big.png",Kompas TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_beritasatu_big1.png",Berita Satu
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_beritasatu_big1.png",Berita Satu
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_jaktv_big1.png",Jak TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_jaktv_big1.png",Jak TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_rtv_big1.png",RTV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_rtv_big1.png",RTV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_idx_big.png",IDX
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_idx_big.png",IDX
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_daaitv_big1.png",Daai TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_daaitv_big1.png",Daai TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_atv_big.png",ATV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_atv_big.png",ATV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_balitv_big1.png",Bali TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_balitv_big1.png",Bali TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_jtv_big1.png",JTV Surabaya
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_jtv_big1.png",JTV Surabaya
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_antara_big1.png",Antara TV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_antara_big1.png",Antara TV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_mytv_big.png",MYTV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_mytv_big.png",MYTV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_rchanneljawabarat_big.png",R Channel Jawa Barat
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_rchanneljawabarat_big.png",R Channel Jawa Barat
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvedukasi_big1.png",TV Edukasi
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvedukasi_big1.png",TV Edukasi
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_rri_big1.png",RRI NET
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_rri_big1.png",RRI NET
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_jitv_big.png",JITV
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_jitv_big.png",JITV
 rtp://
 
-#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_insert_big1.png",INSERT
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_insert_big1.png",INSERT
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useesports2_big.png",Usee Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useesports2_big.png",Usee Sports 2
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_useesports2_hd_big.png",Usee Sports 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_useesports2_hd_big.png",Usee Sports 2 HD
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_champ1_big.png",Champion TV 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_champ1_big.png",Champion TV 1
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_champ1_hd_big.png",Champion TV 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_champ1_hd_big.png",Champion TV 1 HD
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_champ2_big.png",Champion TV 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_champ2_big.png",Champion TV 2
 rtp://
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_champ2_hd_big.png",Champion TV 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_champ2_hd_big.png",Champion TV 2 HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/useetv.png",Mozaik Channel
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/useetv.png",Mozaik Channel
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_hbo_hd_big.png",HBO HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_hbo_hd_big.png",HBO HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_hbosignature_hd_big.png",HBO Signature HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_hbosignature_hd_big.png",HBO Signature HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_cinemax_hd_big.png",Cinemax HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_cinemax_hd_big.png",Cinemax HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_hbohits_hd_big.png",HBO Hits HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_hbohits_hd_big.png",HBO Hits HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_hbofamily_hd_big.png",HBO Family HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_hbofamily_hd_big.png",HBO Family HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_cinemaworld_big.png",Cinema World HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_cinemaworld_big.png",Cinema World HD
 rtp://
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_galaxy_big1.png",Galaxy Premium
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_galaxy_big1.png",Galaxy Premium
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_warner_big.png",WB TV
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_warner_big.png",WB TV
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvn_big.png",TvN
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvn_big.png",TvN
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_formosa_big.png",Formosa
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_formosa_big.png",Formosa
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_dunialain_big.png",Dunia Lain
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_dunialain_big.png",Dunia Lain
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_ettvasia_big.png",ETTV Asia
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_ettvasia_big.png",ETTV Asia
 rtp://
 
-#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_eljhon_big.png",EL JOHN TV
+#EXTINF:-1 group-title="Gen Entertaiment" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_eljhon_big.png",EL JOHN TV
 rtp://
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_lejelhomeshopping_big1.png",Lejel Home Shopping
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_lejelhomeshopping_big1.png",Lejel Home Shopping
 rtp://
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/grey_logo_lejelhomeshopping_big1.png",Lejel Home Shopping (Reguler)
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/grey_logo_lejelhomeshopping_big1.png",Lejel Home Shopping (Reguler)
 rtp://
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/grey_logo_mshop_big.png",MNC Lifestyle
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/grey_logo_mshop_big.png",MNC Lifestyle
 rtp://
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_eatgo_big1.png",Eat and Go
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_eatgo_big1.png",Eat and Go
 rtp://
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/useetv.pnglogo_useetoday_big1.png",Usee Today
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/useetv.pnglogo_useetoday_big1.png",Usee Today
 rtp://
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_discovery_hd_big.png",Discovery Channel HD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_discovery_hd_big.png",Discovery Channel HD
 rtp://
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_citradangdut_big.png",Citra Dangdut
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_citradangdut_big.png",Citra Dangdut
 rtp://
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_ikonser_big.png",i Konser
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_ikonser_big.png",i Konser
 rtp://
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_cnbc_big.png",CNBC
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_cnbc_big.png",CNBC
 rtp://
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_aljazeera_big1.png",Aljazeera
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_aljazeera_big1.png",Aljazeera
 rtp://
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvbsnews_big.png",TVBS
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvbsnews_big.png",TVBS
 rtp://
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_trtworld_big.png",TRT World
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_trtworld_big.png",TRT World
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_alquran_big1.png",Al Quran Al Kareem
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_alquran_big1.png",Al Quran Al Kareem
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_rodjatv_big1.png",Rodja TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_rodjatv_big1.png",Rodja TV
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_mtatv_big1.png",MTATV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_mtatv_big1.png",MTATV
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/grey_logo_mqtv_big1.png",MQTV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/grey_logo_mqtv_big1.png",MQTV
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tv9_big.png",TV9 NU
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tv9_big.png",TV9 NU
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_muhammadiyahtv_big1.png",TvMU
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_muhammadiyahtv_big1.png",TvMU
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tawaftv_big.png",Tawaf TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tawaftv_big.png",Tawaf TV
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_tvmui_big.png",TV MUI
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_tvmui_big.png",TV MUI
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_hopechannel_big1.png",Hope
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_hopechannel_big1.png",Hope
 rtp://
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/LTV%20ogos/logo_uchannel_big1.png",U Channel
+#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/muhrizki1996/UseeTV-Example-Playlist/raw/master/TV%20ogos/logo_uchannel_big1.png",U Channel
 rtp://
